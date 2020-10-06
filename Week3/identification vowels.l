@@ -1,4 +1,3 @@
-Identification vowels
 %{
 
 int vowel_cnt=0,consonant_cnt=0;
